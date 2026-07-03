@@ -21,7 +21,7 @@ class OpenRouterProvider(BaseAIProvider, LoggerMixin):
         headers = {
             "Authorization": f"Bearer {api_key}",
             "Content-Type": "application/json",
-            "HTTP-Referer": "https://github.com/Sahaj33-op/ServerPulse",
+            "HTTP-Referer": "https://github.com/sizwinz/ServerPulse",
             "X-Title": "ServerPulse Discord Analytics Bot"
         }
         
@@ -67,7 +67,7 @@ class OpenRouterProvider(BaseAIProvider, LoggerMixin):
         headers = {
             "Authorization": f"Bearer {api_key}",
             "Content-Type": "application/json",
-            "HTTP-Referer": "https://github.com/Sahaj33-op/ServerPulse",
+            "HTTP-Referer": "https://github.com/sizwinz/ServerPulse",
             "X-Title": "ServerPulse Discord Analytics Bot"
         }
         
@@ -124,7 +124,7 @@ class OpenRouterProvider(BaseAIProvider, LoggerMixin):
         headers = {
             "Authorization": f"Bearer {api_key}",
             "Content-Type": "application/json",
-            "HTTP-Referer": "https://github.com/Sahaj33-op/ServerPulse",
+            "HTTP-Referer": "https://github.com/sizwinz/ServerPulse",
             "X-Title": "ServerPulse Discord Analytics Bot"
         }
         

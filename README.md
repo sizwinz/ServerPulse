@@ -64,7 +64,7 @@
 ### 📦 Quick Start
 
 ```bash
-git clone https://github.com/Sahaj33-op/ServerPulse.git
+git clone https://github.com/sizwinz/ServerPulse.git
 cd ServerPulse
 cp .env.example .env
 # Edit your BOT_TOKEN and (optionally) AI keys
@@ -191,11 +191,11 @@ See **CONTRIBUTING.md** for details.
 
 ## 📜 License
 
-MIT License © 2025 [Sahaj Italiya](https://github.com/Sahaj33-op)
+MIT License © 2025 [Sahaj Italiya](https://github.com/sizwinz)
 
 ---
 
 ## 💬 Support
 
-* Issues → [GitHub Issues](https://github.com/Sahaj33-op/ServerPulse/issues)
+* Issues → [GitHub Issues](https://github.com/sizwinz/ServerPulse/issues)
 * Email → [sahajitaliya33@gmail.com](mailto:sahajitaliya33@gmail.com)

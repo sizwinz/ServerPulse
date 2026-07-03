@@ -297,7 +297,7 @@ class ServerPulseBot(commands.Bot, LoggerMixin):
                 "🚨 Instant activity alerts\n"
                 "🧠 AI-powered insights\n"
                 "🏆 Member leaderboards\n\n"
-                "Need help? Check out our [documentation](https://github.com/Sahaj33-op/ServerPulse)"
+                "Need help? Check out our [documentation](https://github.com/sizwinz/ServerPulse)"
             ),
             color=discord.Color.green()
         )
