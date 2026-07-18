@@ -198,4 +198,3 @@ MIT License © 2025 [Sahaj Italiya](https://github.com/sizwinz)
 ## 💬 Support
 
 * Issues → [GitHub Issues](https://github.com/sizwinz/ServerPulse/issues)
-* Email → [sahajitaliya33@gmail.com](mailto:sahajitaliya33@gmail.com)
