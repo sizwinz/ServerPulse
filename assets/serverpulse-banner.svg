@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">ServerPulse</title>
+  <desc id="desc">ServerPulse — analytics, alerts, and AI-powered insights for Discord communities</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#FAFCFF"/>
+      <stop offset="1" stop-color="#EFF4FF"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop stop-color="#5865F2"/>
+      <stop offset="1" stop-color="#19B6D2"/>
+    </linearGradient>
+    <linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#7F8CF8" stop-opacity=".19"/>
+      <stop offset="1" stop-color="#7F8CF8" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#4763A8" flood-opacity=".12"/>
+    </filter>
+    <clipPath id="chart"><rect x="810" y="103" width="330" height="180" rx="4"/></clipPath>
+  </defs>
+  <rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+  <circle cx="1204" cy="48" r="210" fill="#DDE5FF" opacity=".38"/>
+  <circle cx="674" cy="325" r="190" fill="#DAF7FE" opacity=".4"/>
+  <path d="M0 326H1280" stroke="#DCE5F3"/>
+  <rect x="62" y="74" width="58" height="58" rx="18" fill="url(#accent)"/>
+  <path d="M76 104h9l6-13 10 27 6-14h8" fill="none" stroke="white" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="62" y="204" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="66" font-weight="750" fill="#14223A" letter-spacing="-2">ServerPulse</text>
+  <text x="65" y="244" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="21" font-weight="400" fill="#65758C">Your Discord community. In focus.</text>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-weight="650" font-size="12" letter-spacing="1.2" fill="#566782">
+    <rect x="63" y="279" width="123" height="30" rx="15" fill="#E7EDFF"/><text x="79" y="298">ANALYTICS</text>
+    <rect x="198" y="279" width="93" height="30" rx="15" fill="#E7EDFF"/><text x="215" y="298">ALERTS</text>
+    <rect x="303" y="279" width="126" height="30" rx="15" fill="#E7EDFF"/><text x="318" y="298">AI INSIGHTS</text>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="767" y="53" width="441" height="264" rx="23" fill="#FFFFFF"/>
+    <rect x="768" y="54" width="439" height="262" rx="22" stroke="#DFE7F4" fill="none"/>
+  </g>
+  <circle cx="799" cy="83" r="5" fill="#B0BDE0"/><circle cx="816" cy="83" r="5" fill="#C9D2E8"/><circle cx="833" cy="83" r="5" fill="#E0E7F2"/>
+  <text x="1131" y="88" fill="#8C9DB6" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">OVERVIEW</text>
+  <path d="M810 129H1175 M810 170H1175 M810 211H1175 M810 252H1175" stroke="#EFF2F9" stroke-width="1"/>
+  <g clip-path="url(#chart)">
+    <path d="M810 254 C831 247 853 270 875 232 S917 181 938 202 S979 228 1001 171 S1046 212 1072 157 S1112 173 1134 126 L1134 284 L810 284Z" fill="url(#area)"/>
+    <path d="M810 254 C831 247 853 270 875 232 S917 181 938 202 S979 228 1001 171 S1046 212 1072 157 S1112 173 1134 126" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <circle cx="1134" cy="126" r="8" fill="#5865F2" stroke="#FFFFFF" stroke-width="4"/>
+  <rect x="1050" y="272" width="127" height="24" rx="12" fill="#EEF3FF"/>
+  <circle cx="1067" cy="284" r="4" fill="#24BD9F"/>
+  <text x="1080" y="288" fill="#546580" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="600">LIVE SIGNAL</text>
+</svg>
